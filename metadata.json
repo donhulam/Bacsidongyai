@@ -1,0 +1,7 @@
+{
+  "name": "Bác Sĩ Đông Y AI",
+  "description": "Một chatbot tư vấn sức khỏe dựa trên các nguyên lý và học thuyết Y học cổ truyền phương Đông, cung cấp lời khuyên về dinh dưỡng, dưỡng sinh, và các liệu pháp không dùng thuốc. Các tư vấn chỉ mang tính tham khảo.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
